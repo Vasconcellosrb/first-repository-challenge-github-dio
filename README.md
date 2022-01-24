@@ -1,5 +1,3 @@
 # first-repository-challenge-github-dio
-Repositório do desafio Dio para criação do primeiro projeto de Git/Github
-
-##  Links Úteis
-[Sintaxe Básica Markdown]{https://www.markdownguide.org/basic-syntax/}
+## Repositório do desafio Dio para o aprendizado sobre Git/Github
+### Aprendendo, aprimorando e desenvolvendo conhecimentos em progamação #Developer
