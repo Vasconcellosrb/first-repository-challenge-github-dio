@@ -1,0 +1,17 @@
+# Git e Github
+
+### Exemplificamos, aqui, alguns dos principais comandos para a utilização (operacionalização) do Git e Github.
+
+ - gerar chave SSH ($ ssh-keygen -t ed25519 -C "seu_email@exemplo.com");
+ - adicionar esta chave a sua conta Github (caso não tenha, crie uma);
+ - executar o **git init** para iniciar um *projeto Git*;
+ - criar o repositório no Github e copiar a URL;
+ - conectar o Projeto Github ao Git através do comando: 
+    **$ git remote origin *URL do Projeto*;
+ - adicionar arquivo **ReadMe** ou outro tipo de arquivo (o Git não enxerga pastas vazias);
+ - executar o **$ git add *nome do arquivo*** ou **$ git add .** para incluir todos os arquivos;
+ - executar o **$ git status** para verificar se os arquivos estão : 
+    <span style="color:green">prontos para serem salvos</span> ou <span style="color:red">não adicionados</span>;
+ - **"commitar"**, ou seja, salvar no **commit** o que foi criado/alterado através do comando: 
+    **$ git commit -m *"Escreva o que foi criado/alterado"*;
+ - executar o **$ git push --all** para *empurrar* as alterações para o Github, onde o local e o remoto serão mesclados.
