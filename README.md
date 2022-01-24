@@ -1,2 +1,2 @@
 # first-repository-challenge-github-dio
-Desafio Dio para criação do primeiro repositório Git/Github.
+Repositório do desafio Dio para criação do primeiro projeto de Git/Github
